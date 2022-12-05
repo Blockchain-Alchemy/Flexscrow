@@ -3,8 +3,7 @@
 
 ### Summary
 
-This is a rubust, flexibale and scalable solution that allows secure and transparent escrow transactions, such as hold and give rewards.
-The solution is a contribution to the Tezos developer comminuty - it's open source (MIT license)
+This is a robust, flexible and scalable solution that allows secure and transparent escrow transactions, such as hold and give rewards.
 
 ![Flexcrow_Demo](https://user-images.githubusercontent.com/2120817/205573560-178b0c03-1d64-46ae-afb1-74577e1625f3.gif)
 
@@ -12,14 +11,14 @@ The solution is a contribution to the Tezos developer comminuty - it's open sour
 
 https://flexscrow.netlify.app/ 
 
-This is an implemenatation of Flexcrow with a simple racing game. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. 
+This is an implementation of Flexcrow with a simple racing game. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play, and the winner gets .2 tez. 
 
 ### White Paper
 
 https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
 
 ### Concept
-We created the most flexiable and re-usable escrow system that gives gamers an expereince they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
+We created the most flexible and reusable escrow system that gives gamers an experience they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
 
 ### UI and UX
 
@@ -47,9 +46,9 @@ JAKARTANET Testnet:
 
 ### Limitations, Potential Risks and Security Questions
 
-Flexscrow is vulnerable to JS injection, this vulnarability is solved with our [Metaverse Anti-Cheat Tool](https://github.com/Blockchain-Alchemy/Metaverse-Anti-Cheat)
+Flexscrow is vulnerable to JS injection, this vulnerability is solved with our [Metaverse Anti-Cheat Tool](https://github.com/Blockchain-Alchemy/Metaverse-Anti-Cheat)
 
-### Prequisites
+### Prerequisites
 The following dependencies are required to run Flexscrow:
 
 | Dependency | Version             |
