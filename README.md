@@ -5,6 +5,8 @@ Extensible Escrow system for Gaming Rewards on Tezos
 
 ### Live Demo
 
+https://flexscrow.netlify.app/
+
 ### White Paper
 
 https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
