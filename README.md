@@ -57,5 +57,5 @@ The following dependencies are required to run Flexscrow:
 
 ### Maintain Support and Future Plans
 Flexcrow is created to be the escorow system we'll be using for all our projects. Some projects that will implement Flexcrow are:
-- PiXLtez
-- Tez Run
+- [PiXLtez](https://github.com/PiXLtez/PiXL-Public)
+- [Tez Run](https://github.com/Blockchain-Alchemy/Tez-Run-Public)
