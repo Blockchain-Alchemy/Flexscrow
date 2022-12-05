@@ -3,7 +3,7 @@
 
 ### Summary
 
-This is a rubust, flexibale and scalable solution that allows secure and transparent escrow and rewards.
+This is a rubust, flexibale and scalable solution that allows secure and transparent escrow transactions, such as hold and give rewards.
 The solution is a contribution to the Tezos developer comminuty - it's open source (MIT license)
 
 ![Flexcrow_Demo](https://user-images.githubusercontent.com/2120817/205573560-178b0c03-1d64-46ae-afb1-74577e1625f3.gif)
