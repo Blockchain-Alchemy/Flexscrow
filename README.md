@@ -14,7 +14,7 @@ https://flexscrow.netlify.app/
 
 ### White Paper
 
-https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
+https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
 
 ### Concept
 We created the most flexiable and re-usable escrow system that gives gamers an expereince they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
