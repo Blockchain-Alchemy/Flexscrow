@@ -1,5 +1,6 @@
 # Flexscrow
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
+
 Extensible Escrow system for Gaming Rewards on Tezos
 
 ### Live Demo
