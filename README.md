@@ -50,3 +50,8 @@ The following dependencies are required to run Flexscrow:
 | Dependency | Version             |
 | ---------- | ------------------- |
 | Node       | `v12.18.4` or above |
+
+### Maintain Support and Future Plans
+Flexcrow is created to be the escorow system we'll be using for all our projects. Some projects that will implement Flexcrow are:
+- PiXLtez
+- Tez Run
