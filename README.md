@@ -10,7 +10,9 @@ The solution is a contribution to the Tezos developer comminuty - it's open sour
 
 ### Live Demo
 
-https://flexscrow.netlify.app/
+https://flexscrow.netlify.app/ 
+
+This is an implemenatation of Flexcrow with a simple racing game. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. 
 
 ### White Paper
 
