@@ -22,7 +22,7 @@ We created the most flexible and reusable escrow system that gives gamers an exp
 
 ### UI and UX
 
-Flexcrow uses best practices in UX, by implementing the [MUI  framework](https://mui.com/) in react and optimized Unity framework. 
+Flexcrow uses best practices in UX by implementing the [MUI  framework](https://mui.com/) in react and optimized Unity framework. 
 
 ### Components
 - Game Layer (Unity, react, next)
