@@ -11,10 +11,25 @@ https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
 ### Concept
 We created the most flexiable and re-usable escrow system that gives games an expereince they expect. Flexscrow provides the ideal solution for many types of games - I enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
 
+### UI and UX
+
+Flexcrow uses best practices in UX, by implementing the MUI framework in react and optimized Unity framework. 
+
 ### Components
-- Game Layer (Unity)
+- Game Layer (Unity, react, next)
 - Server Layer (node)
 - Smart Contract Layer (Michelson)
+
+### Smart Contracts
+
+Mainnet:
+- Escrow: "KT1R2Uo6Q3o4emoPekgbEPs2eQMpqXfravSC"
+- uUSD: "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW"
+
+JAKARTANET Testnet:
+- Escrow: "KT1QqTCsHghND8gfeG55w2pWCskZpFFgjVCV"
+- uUSD: "KT1Xf83TTyDDxYxr1x2jKFjHXcCsD4RSnaE5"
+
 
 ### System Diagram
 
