@@ -1,8 +1,6 @@
 # Flexscrow
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
-Extensible Escrow system for Gaming Rewards on Tezos
-
 ### Summary
 
 This is a rubust, flexibale and scalable solution that allows secure and transparent escrow and rewards.
