@@ -5,6 +5,8 @@ Extensible Escrow system for Gaming Rewards on Tezos
 
 ### White Paper
 
+https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
+
 ### Components
 - Game Layer (Unity)
 - Server Layer (node)
