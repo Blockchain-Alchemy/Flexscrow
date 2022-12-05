@@ -10,7 +10,7 @@ Extensible Escrow system for Gaming Rewards on Tezos
 https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
 
 ### Concept
-We created the most flexiable and re-usable escrow system that gives games an expereince they expect. Flexscrow provides the ideal solution for many types of games - I enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
+We created the most flexiable and re-usable escrow system that gives gamers an expereince they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
 
 ### UI and UX
 
