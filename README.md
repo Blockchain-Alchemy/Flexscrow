@@ -11,7 +11,7 @@ This is a robust, flexible and scalable solution that allows secure and transpar
 
 https://flexscrow.netlify.app/ 
 
-This is an implementation of Flexcrow with a simple racing game. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play, and the winner gets .2 tez. (the game might take a moment to load)
+This is an implementation of Flexcrow with a simple racing game. It has been tested on testnet and is now deployed on mainnet. It requires 1 tez to play, and the winner gets 2 tez.
 
 ### White Paper
 
